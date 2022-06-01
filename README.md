@@ -1,4 +1,4 @@
-# Repositório designado a resolução dos exercicios propóstos em aula
+# Repositório designado a resolução dos exercicios propostos em aula
 
 ### Aula 
 
