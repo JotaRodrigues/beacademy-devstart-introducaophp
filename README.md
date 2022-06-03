@@ -1,12 +1,12 @@
 # Repositório designado a resolução dos exercicios propostos em aula
 
 ### Aula 04
-
+### Calculadora utilizando o metodo post
 [Exercicio 1](./aula04/index.php)
 
-### Aula 
+### Aula 07
 
-[Exercicio 2](link_da_aula)
+[Exercicio 2](./aula07/index.php)
 
 ### Aula 
 
