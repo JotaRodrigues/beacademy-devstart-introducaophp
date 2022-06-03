@@ -2,7 +2,7 @@
 
 ### Aula 04
 
-[Exercicio 1](./aula04/exercicio1.php)
+[Exercicio 1](./aula04/index.php)
 
 ### Aula 
 
