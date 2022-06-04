@@ -12,13 +12,13 @@
 ### Formulario com php
 [Exercicio 3](./aula12/index.php)
 
-### Aula 
+### Aula 14
+### Continuar os meses do switch
+[Exercicio 4](./aula14/index.php)
 
-[Exercicio 4](link_da_aula)
-
-### Aula 
-
-[Exercicio 5](link_da_aula)
+### Aula 16
+### While repetindo até o 100
+[Exercicio 5](./aula16/index.php)
 
 ### Aula 
 
