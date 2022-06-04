@@ -36,16 +36,6 @@
 #
 
 ### Aula 22
-
+### Criar um array de bandas e músicas
 [Exercicio 8](./aula22/index.php)
-#
-
-### Aula 
-
-[Exercicio 9](link_da_aula)
-#
-
-### Aula 
-
-[Exercicio 10](link_da_aula)
 #
