@@ -8,9 +8,9 @@
 
 [Exercicio 2](./aula07/index.php)
 
-### Aula 
+### Aula 12
 
-[Exercicio 3](link_da_aula)
+[Exercicio 3](./aula12/index.php)
 
 ### Aula 
 
