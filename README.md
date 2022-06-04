@@ -17,7 +17,7 @@
 [Exercicio 4](./aula14/index.php)
 
 ### Aula 16
-### While repetindo até o 100
+### Seletor de ano
 [Exercicio 5](./aula16/index.php)
 
 ### Aula 17
