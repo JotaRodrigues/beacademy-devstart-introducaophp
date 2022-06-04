@@ -24,9 +24,9 @@
 ### Criando um seletor de dia/mes/ano
 [Exercicio 6](./aula17/index.php)
 
-### Aula 
-
-[Exercicio 7](link_da_aula)
+### Aula 21
+### Lista de frutas em um array
+[Exercicio 7](./aula21/index.php)
 
 ### Aula 
 
