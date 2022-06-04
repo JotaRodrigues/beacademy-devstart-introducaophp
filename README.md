@@ -20,9 +20,9 @@
 ### While repetindo até o 100
 [Exercicio 5](./aula16/index.php)
 
-### Aula 
-
-[Exercicio 6](link_da_aula)
+### Aula 17
+### Criando um seletor de dia/mes/ano
+[Exercicio 6](./aula17/index.php)
 
 ### Aula 
 
