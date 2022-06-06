@@ -43,3 +43,7 @@
 ### Tabela de produtos
 [Exercicio 9](./aula26/index.php)
 #
+### Aula 28
+### $_SERVER usando MATCH
+[Exercicio 10](./aula28/index.php)
+#
