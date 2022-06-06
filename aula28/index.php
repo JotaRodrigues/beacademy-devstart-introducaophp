@@ -9,4 +9,5 @@
         default => '<img src="./img/erro404.svg"/><br>
                     <h1>Página não encontrada!</h1>'
     }
+
 ?>

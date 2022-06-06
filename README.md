@@ -47,3 +47,7 @@
 ### $_SERVER usando MATCH
 [Exercicio 10](./aula28/index.php)
 #
+### Aula 29
+### Criando novas pages
+[Exercicio 11](./aula29/index.php)
+#
