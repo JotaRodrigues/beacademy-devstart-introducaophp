@@ -39,3 +39,7 @@
 ### Criar um array de bandas e músicas
 [Exercicio 8](./aula22/index.php)
 #
+### Aula 26
+### Tabela de produtos
+[Exercicio 9](./aula26/index.php)
+#
